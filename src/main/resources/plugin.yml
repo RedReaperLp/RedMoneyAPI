@@ -1,0 +1,6 @@
+name: RedMoneyAPI
+version: '${version}'
+main: com.github.redreaperlp.redmoneyapi.RedMoneyAPI
+api-version: 1.18
+softdepend: [ RedPermsAPI ]
+authors: [ RedReaperLp ]
